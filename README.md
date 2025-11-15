@@ -170,22 +170,4 @@ const insight = await geminiService.generateHealthInsight(entries, vitals, goals
 - Integration with electronic health records (EHR)
 - PWA support for mobile app-like experience
 
-## 📄 License
 
-This project is created for educational purposes and demonstration of Gemini API integration in health tech.
-
-## ⚠️ Disclaimer
-
-This app is for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or support, please open an issue in the repository.
-
----
-
-**Built with ❤️ using React, TypeScript, Tailwind CSS, and Google Gemini API for Health Tech**
